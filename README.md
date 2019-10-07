@@ -2,5 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It is a study project using ReactJS
 
-![Alt text](/assets/readme/home.png)
-![Alt text](/assets/readme/cart.png)
+![Alt text](/src/assets/readme/home.png)
+![Alt text](/src/assets/readme/cart.png)
